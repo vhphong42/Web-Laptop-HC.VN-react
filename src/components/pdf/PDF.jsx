@@ -8,7 +8,7 @@ const PDF = ({ componentRef }) => {
     <div className="hidden">
       <div className="flex flex-col " ref={componentRef}>
         <img
-          src="../images/logo.png"
+          src="/images/logo.png"
           alt=""
           className="w-[100px] h-[100px] object-cover mx-auto  "
         />
